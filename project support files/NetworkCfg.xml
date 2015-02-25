@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<AllNetworkConfigs>
+	<NetworkConfig isNDIS="0" canbeDelete="0" isPreferred="1"><ConfigFileName>RELIANCE</ConfigFileName><UserName/><Password/><LoginNumber>*99#</LoginNumber><AutoGetAPN>0</AutoGetAPN><APN>rcomnet</APN><AutoGetDNS>1</AutoGetDNS><MainDNS/><StandbyDNS/><AutoGetPDP>1</AutoGetPDP><PDPAddress/><PDPType>IP</PDPType><AuthType>PAP</AuthType><AskUserAndPwd>0</AskUserAndPwd><SaveUserAndPwd>0</SaveUserAndPwd></NetworkConfig><NetworkConfig canbeDelete="0" isPreferred="0">
+		<ConfigFileName>NULL</ConfigFileName>
+		<UserName></UserName>
+		<Password></Password>
+		<LoginNumber>*99#</LoginNumber>
+		<AutoGetAPN>1</AutoGetAPN>
+		<APN></APN>
+		<AutoGetDNS>1</AutoGetDNS>
+		<MainDNS>
+		</MainDNS>
+		<StandbyDNS>
+		</StandbyDNS>
+		<AutoGetPDP>1</AutoGetPDP>
+		<PDPAddress>
+		</PDPAddress>
+		<PDPType>IP</PDPType>
+		<AuthType>PAP</AuthType>
+		<AskUserAndPwd>0</AskUserAndPwd>
+		<SaveUserAndPwd>0</SaveUserAndPwd>
+	</NetworkConfig>
+</AllNetworkConfigs>
